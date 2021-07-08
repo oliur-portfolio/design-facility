@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "Gotham-Light";
+    src: url("Gotham-Light.otf") format("opentype"),
+        url("Gotham-Light.ttf") format("truetype"),
+        url("Gotham-Light.woff2") format("woff2"),
+        url("Gotham-Light.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Gotham-Medium";
+    src: url("Gotham-Medium.otf") format("opentype"),
+        url("Gotham-Medium.ttf") format("truetype"),
+        url("Gotham-Medium.woff2") format("woff2"),
+        url("Gotham-Medium.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Gotham-Black";
+    src: url("Gotham-Black.otf") format("opentype"),
+        url("Gotham-Black.ttf") format("truetype"),
+        url("Gotham-Black.woff2") format("woff2"),
+        url("Gotham-Black.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Gotham-Book";
+    src: url("Gotham-Book.otf") format("opentype"),
+        url("Gotham-Book.ttf") format("truetype"),
+        url("Gotham-Book.woff2") format("woff2"),
+        url("Gotham-Book.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Baskerville";
+    src: url("Baskerville.ttf") format("truetype"),
+        url("Baskerville.woff2") format("woff2"),
+        url("Baskerville.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Baskerville-SemiBold";
+    src: url("Baskerville-SemiBold.ttf") format("truetype"),
+        url("Baskerville-SemiBold.woff2") format("woff2"),
+        url("Baskerville-SemiBold.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
